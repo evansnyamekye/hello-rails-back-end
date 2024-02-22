@@ -19,6 +19,7 @@ greetings = [
     "Howdy!"
 ]
 
+
 greetings.each do |greeting|
     Message.create(content: greeting)
 end
