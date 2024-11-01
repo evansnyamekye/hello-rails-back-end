@@ -11,9 +11,6 @@
 /.env*
 !/.env*.erb
 
-# .gitignore
-node_modules/
-
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
